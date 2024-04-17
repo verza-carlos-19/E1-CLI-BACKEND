@@ -1,0 +1,28 @@
+[
+  {
+    "Nombre": "carlos verza",
+    "CUIT": "1342445",
+    "localidad": "San Luis, San Luis, Argentina",
+    "tipo": "A",
+    "ID": "13342334245",
+    "Fecha_De_Compra": "2024-03-10T12:43:45.346Z",
+    "Costo": "$ 120.000,00",
+    "IVA": "21%",
+    "Descripcion": "compra de repuestos",
+    "Total": "$ 145.200,00",
+    "Fecha_De_Emision": "17/4/2024"
+  },
+  {
+    "Nombre": "carlos verza",
+    "CUIT": "1233423422",
+    "localidad": "San Luis, San Luis, Argentina",
+    "tipo": "A",
+    "ID": "132223124",
+    "Fecha_De_Compra": "13/2/2024",
+    "Costo": "$ 150.000,00",
+    "IVA": "10%",
+    "Descripcion": "pago de servicios de servidores online",
+    "Total": "$ 165.000,00",
+    "Fecha_De_Emision": "17/4/2024"
+  }
+]
